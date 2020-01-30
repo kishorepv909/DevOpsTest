@@ -1,6 +1,9 @@
 # DevOpsTest
 Devops pom.XML file added 
 test1 - push to local server to staging server
+<<<<<<< HEAD
 test2 - Release2 addeed 
-test2 - Release 1 branch added 
 
+=======
+test2 - Release 1 branch added 
+>>>>>>> master
